@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/dnunna@gmail.com.lwc-kzndp9zu",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve zSTwHn6RmWhiNTI4Ushp --open"
+  }
+}
